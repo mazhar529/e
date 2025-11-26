@@ -1,0 +1,8 @@
+{
+  "name": "my project ",
+  "description": "An ultra-modern, futuristic AI-powered educational platform featuring neon aesthetics, 3D elements, and a comprehensive suite of AI study tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
